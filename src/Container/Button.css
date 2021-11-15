@@ -1,0 +1,32 @@
+.button{    
+    padding: 0.25rem 1rem;
+    margin: 0.25rem;
+    min-width: 8rem;
+    color: #fff;
+    border-radius: 20px;
+    border: 1px;
+}
+.join{
+    background: #1CA1DF;
+}
+.setting{
+    background: #659199;
+}
+.login{
+    background: #F7A121;
+}
+.contact{
+    background: #D02B3C;
+}
+.search{
+    background: #86BA3D;
+}
+.help{
+    background: #5B5A9A;
+}
+.home{
+    background: #EE4E94;
+}
+.download{
+    background: #B0923F;
+}
